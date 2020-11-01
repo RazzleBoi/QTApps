@@ -1,0 +1,3 @@
+JOHN|baby|10|12|2
+Baluba|regular|40|40|1
+ASDD|advanced|30|30|0

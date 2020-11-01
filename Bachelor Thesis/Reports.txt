@@ -1,0 +1,6 @@
+qwe|Baluba|47|50|0
+bet|Baluba|45|46|0
+asd|Baluba|35|35|0
+QQQ|Baluba|46|47|0
+HATZ|Baluba|45|45|1
+CRASH|John|9|9|0
